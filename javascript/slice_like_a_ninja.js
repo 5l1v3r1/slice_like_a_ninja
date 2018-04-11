@@ -77,7 +77,7 @@
     };
     getNewStrings = function() {
       var pairs, randomPair;
-      pairs = [["doggy", "dog"], ["catheter", "cat"], ["couscous", "us"], ["spartacus", "part"], ["pacer", "pcr"], ["dog", "god"]];
+      pairs = [["acid-burn", "acid"], ["hacker", "hack"], ["babbage", "bage"], ["override", "err"], ["crash", "ash"], ["dog", "god"], ["phreak", "pra"], ["lord-nikon", "nikon"], ["cereal-killer", "real"], ["gibson", "so"], ["plague", "lag"], ["zerocool", "core"], ["razor", "ra"], ["blade", "de"]];
       randomPair = pairs[Math.floor(Math.random() * pairs.length)];
       return randomPair;
     };
